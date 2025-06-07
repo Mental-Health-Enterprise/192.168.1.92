@@ -1,0 +1,25 @@
+# webdav@192.168.1.92:8080/
+
+## Folder Structure  
+   + * www/
+   |  
+   | + * index.html
+   | + * assets/
+   | |
+   | | + * style.css
+   | | + * logo.png
+   |
+   | + * scripts/
+   | |
+   | | + * depoly.sh
+   |
+   | + * source/
+   | | + * index.html
+   | | + * js/
+   |   |
+   |   | + * app.ts
+   |
+   | + * logs/
+     |
+     | + * upload.log
+  
